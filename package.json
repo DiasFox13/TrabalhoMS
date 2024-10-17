@@ -1,6 +1,6 @@
 {
-  "name": "trabalhoms",
-  "version": "1.0.0",
+  "name": "TrabalhoEmGrupo",
+  "version": "1.0.1",
   "description": "Trabalho de Manitenção de Software - Gabriel Dias e Ludmylla Hablem",
   "main": "index.js",
   "scripts": {
